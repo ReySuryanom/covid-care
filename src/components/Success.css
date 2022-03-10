@@ -1,0 +1,21 @@
+.title-success {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.kotak-sukses {
+  width: 430px;
+  height: 339px;
+  margin-left: 450px;
+}
+
+.btn-home {
+  margin-right: 55px;
+  background-color: #6dcdbb;
+  border: 2px solid #6dcdbb;
+  color: white;
+  width: 180px;
+  padding: 5px;
+  margin-left: 580px;
+  border-radius: 25px;
+}

@@ -1,0 +1,15 @@
+.header__left {
+  margin-top: 80px;
+}
+
+.header__left > h1 {
+  font-weight: 900;
+  color: #4f4c5f;
+  font-size: 43px;
+}
+
+.header__left > p {
+  font-weight: 900;
+  color: #706d82;
+  font-size: 20px;
+}

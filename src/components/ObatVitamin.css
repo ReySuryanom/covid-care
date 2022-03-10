@@ -1,0 +1,95 @@
+.bg-navbar {
+  background-color: white;
+}
+
+.navbar-brand {
+  margin-left: 55px;
+}
+
+.navbar-nav {
+  padding-right: 30px;
+}
+
+.navItem {
+  margin-right: 30px;
+  font-weight: 400;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.active {
+  font-weight: 700;
+}
+
+.breadcrumb-item {
+  padding-left: 40px;
+}
+
+.btn-login,
+.btn-buy {
+  margin-right: 55px;
+  background-color: #6dcdbb;
+  border: 2px solid #6dcdbb;
+  color: white;
+  width: 180px;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.kotakSlide {
+  margin-top: -16px;
+}
+
+.search-field {
+  margin-top: 40px;
+}
+
+.field {
+  width: 100%;
+  height: 55px;
+  border: 3px solid #cbcbcb;
+  border-radius: 25px;
+  padding-left: 20px;
+}
+
+.search-icon {
+  width: 40px;
+  height: 40px;
+  background-color: #4f4c5f;
+  border-radius: 50px;
+  margin-top: -83px;
+  margin-left: 1060px;
+  color: white;
+  padding: 3px;
+}
+
+.gmbr {
+  margin: 0 auto;
+  width: 20px;
+  height: 20px;
+}
+
+.card-barang {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+.btn-buy {
+  margin-bottom: 20px;
+}
+
+.btn-more {
+  margin-top: 25px;
+  background-color: white;
+  border: 2px solid #51baa7;
+  color: #51baa7;
+  width: 180px;
+  padding: 5px;
+  border-radius: 25px;
+}

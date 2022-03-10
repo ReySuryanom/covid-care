@@ -1,0 +1,55 @@
+.primary-color {
+  color: #6dcdbb;
+}
+
+.bg-navbar {
+  background-color: white;
+}
+
+.navbar-brand {
+  margin-left: 55px;
+}
+
+.navbar-nav {
+  padding-right: 30px;
+}
+
+.navItem {
+  margin-right: 30px;
+  font-weight: 400;
+}
+
+.nav-link {
+  color: #1f1534 !important;
+  border-bottom: 3px solid white;
+}
+
+.nav-link:hover {
+  border-bottom: 3px solid #6dcdbb;
+  transition: 0.5s;
+}
+
+.active {
+  font-weight: 700;
+}
+
+.breadcrumb-item {
+  padding-left: 60px;
+}
+
+.btn-primary {
+  margin-right: 55px;
+  background-color: #6dcdbb;
+  border: 2px solid #6dcdbb;
+  color: white;
+  width: 180px;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.btn-link {
+  color: #1f1534;
+}
+.btn-link:hover {
+  color: #1f1534;
+}

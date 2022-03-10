@@ -1,0 +1,12 @@
+.footer {
+  background-color: #6dcdbb;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  color: white;
+}
+
+.footer__right {
+  display: flex;
+  align-self: center;
+  justify-content: space-evenly;
+}

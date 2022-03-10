@@ -1,0 +1,58 @@
+.flag {
+  width: 120px;
+  height: 120px;
+}
+
+.icon {
+  width: 35px;
+  height: 35px;
+  margin-left: -100px;
+}
+
+.positif {
+  font-family: 'Mulish';
+  margin-left: 40px;
+  margin-top: -35px;
+  font-size: 12px;
+}
+
+.total {
+  font-family: 'Mulish';
+  font-weight: 700;
+  margin-left: 40px;
+  margin-top: -20px;
+  font-size: 20px;
+}
+
+@media (max-width: 768px) {
+  .carousel-inner .carousel-item > div {
+    display: none;
+  }
+  .carousel-inner .carousel-item > div:first-child {
+    display: block;
+  }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+  .carousel-inner .carousel-item-right.active,
+  .carousel-inner .carousel-item-next {
+    transform: translateX(33.333%);
+  }
+
+  .carousel-inner .carousel-item-left.active,
+  .carousel-inner .carousel-item-prev {
+    transform: translateX(-33.333%);
+  }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left {
+  transform: translateX(0);
+}

@@ -1,0 +1,23 @@
+.testimonial {
+  color: #4f4c5f;
+  margin-top: 10px;
+}
+
+.testimonial__cards {
+  background-color: #6dcdbb;
+  text-transform: inherit !important;
+  color: white;
+}
+
+h3.title {
+  font-weight: bold;
+}
+
+img.img {
+  margin-right: 40px;
+}
+
+h3.text {
+  font-size: 14px;
+  margin-top: 7px;
+}

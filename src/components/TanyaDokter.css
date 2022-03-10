@@ -1,0 +1,55 @@
+.gmbr {
+  margin: 0 auto;
+  width: 20px;
+  height: 20px;
+}
+.data-img {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.card-barang {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+.card {
+  border-radius: 20px;
+}
+
+.btn-buy {
+  margin-bottom: 20px;
+}
+
+.btn-more {
+  margin-top: 25px;
+  background-color: white;
+  border: 2px solid #51baa7;
+  color: #51baa7;
+  width: 180px;
+  padding: 5px;
+  border-radius: 25px;
+}
+
+.tanya-dokter {
+  margin-top: 50px;
+}
+
+#title {
+  font-weight: 700;
+  font-size: 25px;
+}
+
+.desc {
+  margin-top: -15px;
+}
+
+.star {
+  color: #eed600;
+  padding-top: 10px;
+}
+
+.tas {
+  margin-top: -43px;
+  margin-left: 120px;
+}
